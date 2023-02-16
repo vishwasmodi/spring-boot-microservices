@@ -1,0 +1,7 @@
+/Users/vmodi/IdeaProjects/microservices/product-service/src/main/java/com/example/productservice/ProductServiceApplication.java
+/Users/vmodi/IdeaProjects/microservices/product-service/src/main/java/com/example/productservice/repository/ProductRepository.java
+/Users/vmodi/IdeaProjects/microservices/product-service/src/main/java/com/example/productservice/dto/ProductRequest.java
+/Users/vmodi/IdeaProjects/microservices/product-service/src/main/java/com/example/productservice/model/Product.java
+/Users/vmodi/IdeaProjects/microservices/product-service/src/main/java/com/example/productservice/dto/ProductResponse.java
+/Users/vmodi/IdeaProjects/microservices/product-service/src/main/java/com/example/productservice/controller/ProductController.java
+/Users/vmodi/IdeaProjects/microservices/product-service/src/main/java/com/example/productservice/service/ProductService.java
