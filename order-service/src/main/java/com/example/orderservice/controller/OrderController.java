@@ -17,8 +17,7 @@ public class OrderController {
     @ResponseStatus(HttpStatus.CREATED)
     public String placeOrder(@RequestBody OrderRequest orderRequest) {
         System.out.println(orderRequest);
-        orderService.placeOrder(orderRequest);
-        return "Order placed successfully";
+        return orderService.placeOrder(orderRequest);
     }
     @GetMapping
     @ResponseStatus(HttpStatus.OK)
