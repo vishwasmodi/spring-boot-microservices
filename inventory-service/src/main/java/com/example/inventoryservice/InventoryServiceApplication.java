@@ -7,6 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.context.annotation.Bean;
 import com.example.inventoryservice.repository.InventoryRepository;
+
+import java.math.BigInteger;
+
 @SpringBootApplication
 public class InventoryServiceApplication {
 
